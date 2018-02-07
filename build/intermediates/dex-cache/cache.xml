@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/exploded-aar/com.paypal.sdk/paypal-android-sdk/2.14.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="da47b5635353ca55aabc9e1ad6aaaa5626fedcb4">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/com.paypal.sdk-paypal-android-sdk-2.14.2_c8699a4a1db7ffd0555fb3065fa07248e86684bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_d5549c4cbf24011c37081defacfc829c571c6bda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_14ae49c29dd253f9be025695417c23370ddcf070.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/exploded-aar/com.alimuzaffar.lib/animated-edit-text/1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a801972fbc74dc53d74199cf4e98847083ece53a">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/com.alimuzaffar.lib-animated-edit-text-1.1_44617177d511367d39445bb158013c23d6575371.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/exploded-aar/com.android.support/transition/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.2.0_8efd7ea3dd087bc257a34f43495e6c50e00a5053.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_5ad337f96657e69dbc7ec9f4fc8ecf1bce700819.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/okio-1.6.0_655cd2de48852c4a70cf81bb5468390d12ed3b77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/exploded-aar/com.marlonmafra.android.widget/edittext-password/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="82324c6d3147b133b1f2a2eb4dddebbfe7b0de76">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/com.marlonmafra.android.widget-edittext-password-1.0.0_d82a03a59d4c0a908c24b5ee5ce40c25742287c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_4eb01d232273509da54abf1b2b2f9dd72224fb77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/exploded-aar/com.nex3z/toggle-button-group/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="08527ff3aecf5ef903281d6b866b5c1c3d8ba237">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/com.nex3z-toggle-button-group-1.0.0_1ec2412f6f60119175aa0e4f59318a543e4d0eb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/libs/apache-httpcomponents-httpcore.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="33fc26c02f8043ab0ede19eadc8c9885386b255c">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/apache-httpcomponents-httpcore_f30a96bb958310185fa0775e2f105962fe94b702.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/exploded-aar/com.github.medyo/fancybuttons/1.8.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db4790d8366d34973d7dca635e954b2e73de653d">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/com.github.medyo-fancybuttons-1.8.3_00fe2d754afca474668825c8afadea497c17e807.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_abd91a916741f843920506ec0e558951d143d307.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_fd6dfeaa9000c05aa7495ad8516348dc0a5dc0e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_45cd2312edbb12676acf592f303950d5594e789b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/exploded-aar/com.amulyakhare/com.amulyakhare.textdrawable/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/com.amulyakhare-com.amulyakhare.textdrawable-1.0.1_693421b23f18cc84ca9207bb6e7724a382913f52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_78170c9261228e05bc4f4e90592fae3cadc56c0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/exploded-aar/com.github.markushi/circlebutton/1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ebe3b1f14fa79ba3cd1588acda4e6517ee9fe611">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/com.github.markushi-circlebutton-1.1_5f31d7a91e7ca9ae4c84752736b82395e759bfca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_0e39453098fa3758915ed84adcf35cbf499e96fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/exploded-aar/com.github.rubensousa/raiflatbutton/0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a26732b3684179d67fed7a5cfb7a1bc74f764bf">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/com.github.rubensousa-raiflatbutton-0.1_c9104cc45e602522dd1b5eb08eb4a92fc5788505.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-8.4.0_239b097351464e3d540a795f60bda26595fc6ad4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_7eef5e13a5e98a740a9d3a8ee666b9ba37ccfd84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.2.0_0bb619e54b17a130025b0a75a40b4469046a7b4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_7cb0207f927d7bc037cd3555aa2cf463cb4ef350.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_cb02c195acf4439c8d0aec0ecdb5c35e8ab44730.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_d99f973b931283ededfb7e70b98fb9ed8b0d7fb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/exploded-aar/com.github.ivbaranov/materialfavoritebutton/0.1.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5664aee50f2216099cc90c55768d3bbe0b075c74">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/com.github.ivbaranov-materialfavoritebutton-0.1.4_c682791096e7ee8a408122d9c2fd009acb9daf62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_14f9f26bce2bad6d24003fde83a75bd4bae30d47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/exploded-aar/io.card/android-sdk/5.3.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="28bc7007cc5fb935b0737a42f05b8286936228b0">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/io.card-android-sdk-5.3.4_4139b52c8e3330badf6803e2b85cba8bf2503540.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/uzairhassan/Dropbox/Study/6th semester/shopping/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.2.0_17f22a353f9c715f61e3ba40f4ddc737872009be.jar" />
+    </item>
+
+</items>

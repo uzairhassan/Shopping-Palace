@@ -1,0 +1,50 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    useLibrary 'org.apache.http.legacy'
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.example.ammar.shopping"
+        minSdkVersion 17
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+
+    compile files('libs/apache-httpcomponents-httpcore.jar')
+
+
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:25.3.0'
+    compile 'com.android.support:design:25.2.0'
+    compile 'com.android.support:support-v4:25.3.0'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    compile 'com.amulyakhare:com.amulyakhare.textdrawable:1.0.1'
+    compile 'com.github.ivbaranov:materialfavoritebutton:0.1.4'
+    compile 'com.github.medyo:fancybuttons:1.8.3'
+    compile 'com.google.android.gms:play-services-ads:8.4.0'
+    compile 'com.alimuzaffar.lib:animated-edit-text:1.1'
+    compile 'com.nex3z:toggle-button-group:1.0.0'
+    compile 'com.github.rubensousa:raiflatbutton:0.1'
+    compile 'com.github.markushi:circlebutton:1.1'
+    compile 'com.marlonmafra.android.widget:edittext-password:1.0.0'
+    testCompile 'junit:junit:4.12'
+    compile 'com.paypal.sdk:paypal-android-sdk:2.14.2'
+}

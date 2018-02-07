@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/categories"
+            android:title="Categories" />
+        <item
+            android:id="@+id/profile"
+            android:title="Profile" />
+        <item
+            android:id="@+id/cart"
+            android:title="Cart" />
+        <item
+            android:id="@+id/wish_list"
+            android:title="Demand List" />
+        <item
+            android:id="@+id/likes_list"
+
+            android:title="Likes List" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>

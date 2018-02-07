@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#D3D3D3"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.ammar.shopping.Profile"
+    tools:showIn="@layout/app_bar_profile">
+    <LinearLayout
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:orientation="vertical"
+        >
+        <Space
+            android:layout_width="1dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:id="@+id/profile_name"
+            android:layout_width="match_parent"
+            android:layout_height="30sp"
+            android:textSize="25sp"
+            android:text="Name:"
+            android:textStyle="bold"
+            />
+        <Space
+            android:layout_width="1dp"
+            android:layout_height="5dp" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray"/>
+        <Space
+            android:layout_width="1dp"
+            android:layout_height="15dp" />
+        <TextView
+            android:id="@+id/profile_email"
+            android:layout_width="match_parent"
+            android:layout_height="30sp"
+            android:textSize="25sp"
+            android:text="Email:"
+            android:textStyle="bold"
+            />
+        <Space
+            android:layout_width="1dp"
+            android:layout_height="5dp" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray"/>
+        <Space
+            android:layout_width="1dp"
+            android:layout_height="15dp" />
+        <TextView
+            android:id="@+id/profile_contact_number"
+            android:layout_width="match_parent"
+            android:layout_height="30sp"
+            android:textSize="25sp"
+            android:text="Contact No:"
+            android:textStyle="bold"
+            />
+        <Space
+            android:layout_width="1dp"
+            android:layout_height="5dp" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray"/>
+        <Space
+            android:layout_width="1dp"
+            android:layout_height="15dp" />
+        <TextView
+            android:id="@+id/profile_credit_card_number"
+            android:layout_width="match_parent"
+            android:layout_height="30sp"
+            android:textSize="25sp"
+            android:text="Credit Card:"
+            android:textStyle="bold"
+            />
+        <Space
+            android:layout_width="1dp"
+            android:layout_height="5dp" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray"/>
+        <Space
+            android:layout_width="1dp"
+            android:layout_height="15dp" />
+        <TextView
+            android:id="@+id/profile_address"
+            android:layout_width="match_parent"
+            android:layout_height="30sp"
+            android:textSize="25sp"
+            android:text="Address:"
+            android:textStyle="bold"
+            />
+        <Space
+            android:layout_width="1dp"
+            android:layout_height="5dp" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray"/>
+        <Space
+            android:layout_width="1dp"
+            android:layout_height="15dp" />
+        <TextView
+            android:id="@+id/profile_orders"
+            android:layout_width="match_parent"
+            android:layout_height="30sp"
+            android:textSize="25sp"
+            android:text="Total Orders:"
+            android:textStyle="bold"
+            />
+        <Space
+            android:layout_width="1dp"
+            android:layout_height="5dp" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray"/>
+        <Space
+            android:layout_width="1dp"
+            android:layout_height="15dp" />
+        <TextView
+            android:id="@+id/profile_pending_orders"
+            android:layout_width="match_parent"
+            android:layout_height="30sp"
+            android:textSize="25sp"
+            android:text="Pending Orders:"
+            android:textStyle="bold"
+            />
+        <Space
+            android:layout_width="1dp"
+            android:layout_height="5dp" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray"/>
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

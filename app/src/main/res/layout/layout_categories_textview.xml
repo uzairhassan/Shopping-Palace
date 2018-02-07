@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:paddingTop="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:gravity="center"
+    android:textSize="26dp"
+    android:text="ddcdax"
+    android:id="@+id/categories_inflate"
+    android:textColor="@color/colorPrimaryDark"
+    >
+</TextView>
